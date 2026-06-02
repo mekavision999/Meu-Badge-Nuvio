@@ -1,0 +1,42 @@
+{
+  "filters": [
+    // ... (os teus filtros mantêm-se iguais, apenas certifiquei-me de que o groupId corresponde aos novos IDs)
+  ],
+  "groups": [
+    {
+      "id": "source",
+      "name": "Fonte",
+      "color": "#00000000",
+      "borderColor": "#00000000",
+      "isExpanded": true
+    },
+    {
+      "id": "resolution",
+      "name": "Resolução",
+      "color": "#00000000",
+      "borderColor": "#00000000",
+      "isExpanded": true
+    },
+    {
+      "id": "video-tech",
+      "name": "Tecnologia de Vídeo",
+      "color": "#00000000",
+      "borderColor": "#00000000",
+      "isExpanded": true
+    },
+    {
+      "id": "audio-tech",
+      "name": "Tecnologia de Áudio",
+      "color": "#00000000",
+      "borderColor": "#00000000",
+      "isExpanded": true
+    },
+    {
+      "id": "audio-channels",
+      "name": "Canais de Áudio",
+      "color": "#00000000",
+      "borderColor": "#00000000",
+      "isExpanded": true
+    }
+  ]
+}
